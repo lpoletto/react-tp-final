@@ -3,10 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Desarrollar un ecommerce con las siguientes paginas:
 
--Home: Listado de 4 productos. Mostrar nombre, precio, sku, descripcion
--Detalle de producto: Nombre del producto, descripción, precio, sku
--Registro: Campos Nombre, Apellido, Email, Contraseña
--Login: Por Email y Contraseña
+-Home: Listado de 4 productos. Mostrar nombre, precio, sku, descripcion<br />
+-Detalle de producto: Nombre del producto, descripción, precio, sku<br />
+-Registro: Campos Nombre, Apellido, Email, Contraseña<br />
+-Login: Por Email y Contraseña<br />
 
 Todas los datos deben persistir en base de datos. Es opcional la utilizacion de firebase, se puede realizar desarrollo de api rest propias.
 
